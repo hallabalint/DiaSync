@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "imyf5fb/0NqiBbpzFyaqrQwinaSY6yFi5cZ/caHReHp3BwYizTeCGRZx6pCNy7jN60ZlQNQiTA2dXaotb0eaRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\halla\\Documents\\Programozas\\DiaSync\\DiaSync\\DiaSync\\DiaSync.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\halla\\.nuget\\packages\\libgit2sharp\\0.29.0\\libgit2sharp.0.29.0.nupkg.sha512",
+    "C:\\Users\\halla\\.nuget\\packages\\libgit2sharp.nativebinaries\\2.0.321\\libgit2sharp.nativebinaries.2.0.321.nupkg.sha512"
+  ],
+  "logs": []
+}
