@@ -28,3 +28,4 @@ C:\Users\halla\Documents\Programozas\DiaSync\DiaSync\DiaSync\bin\Debug\net6.0-wi
 C:\Users\halla\Documents\Programozas\DiaSync\DiaSync\DiaSync\bin\Debug\net6.0-windows\runtimes\win-x64\native\git2-a2bde63.dll
 C:\Users\halla\Documents\Programozas\DiaSync\DiaSync\DiaSync\bin\Debug\net6.0-windows\runtimes\win-x86\native\git2-a2bde63.dll
 C:\Users\halla\Documents\Programozas\DiaSync\DiaSync\DiaSync\obj\Debug\net6.0-windows\DiaSync.csproj.CopyComplete
+C:\Users\halla\Documents\Programozas\DiaSync\DiaSync\DiaSync\obj\Debug\net6.0-windows\DiaSync.StatusBar.resources
